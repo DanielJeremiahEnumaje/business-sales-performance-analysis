@@ -1,0 +1,218 @@
+# Business & Sales Performance Analysis
+
+## 📊 Project Overview
+
+This project presents an interactive Business & Sales Performance Dashboard developed using Microsoft Power BI.
+
+The analysis provides a consolidated view of sales, costs, profitability, product performance, regional performance, country-level performance and sales trends over time.
+
+The goal is to transform raw business data into actionable insights that can support data-driven commercial and operational decisions.
+
+---
+
+## 🎯 Business Problem
+
+Businesses need to understand not only how much they sell, but also where their revenue comes from, how much it costs to generate that revenue, and which products, regions and markets contribute to profitability.
+
+Without a consolidated view of these metrics, management may find it difficult to identify strong-performing areas, monitor profitability and understand changes in sales performance over time.
+
+This project addresses this challenge by developing an interactive Power BI dashboard for monitoring and analyzing business performance.
+
+---
+
+## 🎯 Project Objective
+
+The objective of this project is to develop an interactive business intelligence dashboard that enables users to:
+
+- Monitor overall sales and profitability
+- Analyze product and category performance
+- Compare regional profitability
+- Examine country-level sales, costs and profit
+- Track sales trends over time
+- Analyze performance across customer segments
+- Filter the analysis by year, region, customer segment and product category
+
+---
+
+## ❓ Business Questions
+
+The analysis was designed to answer the following questions:
+
+1. What are the company's overall sales, profit, quantity and profit margin?
+2. Which product categories contribute most to total sales?
+3. Which product subcategories generate the highest sales?
+4. How does profit margin vary across regions?
+5. How do sales, costs and profit compare across countries?
+6. How does sales performance change over time?
+7. How does performance vary across customer segments?
+8. Which areas of the business require further management attention?
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modelling
+- Data Visualization
+
+---
+
+## 📈 Key Performance Indicators
+
+The dashboard provides four primary KPIs:
+
+| KPI | Result |
+|---|---:|
+| Total Sales | $3M |
+| Total Profit | $903K |
+| Profit Margin | 30% |
+| Total Quantity | 6,143 |
+
+---
+
+## 🔍 Analysis Areas
+
+### Product Performance
+
+The dashboard analyzes sales performance across product subcategories and product categories.
+
+The leading displayed product subcategories include:
+
+- Binders — $0.49M
+- Phones — $0.45M
+- Accessories — $0.45M
+- Paper — $0.42M
+- Chairs — $0.40M
+
+Product category performance is also compared across:
+
+- Technology
+- Office Supplies
+- Furniture
+
+---
+
+### Regional Profitability
+
+Profit margin is compared across four regions:
+
+| Region | Profit Margin |
+|---|---:|
+| South | 31% |
+| East | 30% |
+| West | 30% |
+| Central | 29% |
+
+This allows users to compare profitability across regions rather than evaluating performance using sales alone.
+
+---
+
+### Country Performance
+
+The dashboard compares:
+
+- Nigeria
+- Ghana
+- Kenya
+- South Africa
+
+using sales, cost and profit measures.
+
+This provides a country-level view of commercial performance and allows users to examine differences between markets.
+
+---
+
+### Sales Trends
+
+Monthly sales trends are visualized across different years to help identify changes in sales performance over time.
+
+The dashboard includes year filters that allow users to investigate performance for:
+
+- 2022
+- 2023
+- 2024
+- 2025
+
+---
+
+## 💡 Key Insights
+
+The analysis demonstrates that business performance should be evaluated using multiple financial indicators rather than sales alone.
+
+For example, Technology records approximately $1.1M in sales, while Office Supplies and Furniture record approximately $1.0M and $0.9M respectively.
+
+The dashboard also provides a separate view of cost, profit and profit margin, allowing decision-makers to investigate whether high sales are accompanied by strong profitability.
+
+Regional analysis shows relatively close profit margins across the four regions, ranging from 29% to 31%.
+
+---
+
+## 💼 Business Value
+
+The dashboard provides management with a centralized view of commercial performance.
+
+The analysis can support:
+
+- Sales performance monitoring
+- Product portfolio analysis
+- Regional performance evaluation
+- Profitability monitoring
+- Market comparison
+- Trend analysis
+- Identification of areas requiring further investigation
+
+By combining sales, cost and profitability metrics in one interactive dashboard, users can explore business performance from multiple perspectives.
+
+---
+
+## 📌 Recommendations
+
+Based on the analysis, management can:
+
+1. Monitor profitability alongside sales when evaluating product performance.
+2. Investigate the factors contributing to differences in regional profit margins.
+3. Review high-performing product categories and subcategories to understand their contribution to overall performance.
+4. Monitor country-level sales, cost and profit to identify markets requiring further analysis.
+5. Use monthly sales trends to support sales planning and performance monitoring.
+6. Use customer-segment filters to investigate differences in purchasing behaviour and commercial performance.
+
+---
+
+## 📊 Dashboard Preview
+
+![Business & Sales Performance Dashboard](Screenshots/business-sales-performance-dashboard.png)
+
+---
+
+## 📂 Project Files
+
+- `Dani.pbix` — Power BI dashboard file
+- `Screenshots/` — Dashboard screenshots
+- `README.md` — Project documentation
+
+---
+
+## 👨‍💻 Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+- Data analysis
+- Business intelligence
+- Power BI
+- Power Query
+- DAX
+- Data modelling
+- Data visualization
+- KPI development
+- Business problem solving
+- Business insights and recommendations
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how business data can be transformed into an interactive analytical dashboard that provides visibility into sales performance, costs, profitability, products, regions, countries and customer segments.
+
+The dashboard is designed to help decision-makers move from raw data to meaningful business insights.
