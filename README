@@ -36,17 +36,15 @@ The objective of this project is to develop an interactive business intelligence
 
 ## ❓ Business Questions
 
-The analysis was designed to answer the following questions:
+## 🔄 From Business Question to Business Action
 
-1. What are the company's overall sales, profit, quantity and profit margin?
-2. Which product categories contribute most to total sales?
-3. Which product subcategories generate the highest sales?
-4. How does profit margin vary across regions?
-5. How do sales, costs and profit compare across countries?
-6. How does sales performance change over time?
-7. How does performance vary across customer segments?
-8. Which areas of the business require further management attention?
-
+| Business Question | Analysis Provided | Potential Business Action |
+|---|---|---|
+| Which categories drive sales? | Category and subcategory sales analysis | Monitor leading categories and investigate growth opportunities |
+| Where is profitability strongest? | Regional profit margin analysis | Investigate factors contributing to regional margin differences |
+| How are markets performing? | Country-level sales, cost and profit analysis | Identify markets requiring deeper commercial analysis |
+| How is sales performance changing? | Monthly and yearly sales trends | Support sales planning and performance monitoring |
+| Which customer groups should be investigated? | Customer segment filtering | Examine differences in customer performance and purchasing patterns |
 ---
 
 ## 🛠️ Tools & Technologies
@@ -137,34 +135,37 @@ The dashboard includes year filters that allow users to investigate performance 
 
 ---
 
-## 💡 Key Insights
+## 💡 Key Business Insights
 
-The analysis demonstrates that business performance should be evaluated using multiple financial indicators rather than sales alone.
+### 1. Sales performance is concentrated in key product categories
 
-For example, Technology records approximately $1.1M in sales, while Office Supplies and Furniture record approximately $1.0M and $0.9M respectively.
+Technology generates approximately **$1.1M in sales**, followed by Office Supplies at approximately **$1.0M** and Furniture at approximately **$0.9M**.
 
-The dashboard also provides a separate view of cost, profit and profit margin, allowing decision-makers to investigate whether high sales are accompanied by strong profitability.
+This indicates that a significant portion of sales is concentrated within the leading product categories.
 
-Regional analysis shows relatively close profit margins across the four regions, ranging from 29% to 31%.
+### 2. Product-level performance varies significantly
 
----
+Among the displayed subcategories, Binders generate approximately **$0.49M** in sales, followed by Phones and Accessories at approximately **$0.45M** each.
 
-## 💼 Business Value
+This provides management with visibility into the products contributing most to sales.
 
-The dashboard provides management with a centralized view of commercial performance.
+### 3. Regional profitability is relatively consistent
 
-The analysis can support:
+Profit margins across the four regions range from **29% to 31%**.
 
-- Sales performance monitoring
-- Product portfolio analysis
-- Regional performance evaluation
-- Profitability monitoring
-- Market comparison
-- Trend analysis
-- Identification of areas requiring further investigation
+This relatively narrow range suggests that regional profitability is broadly similar, while still providing an opportunity to investigate the factors behind the differences.
 
-By combining sales, cost and profitability metrics in one interactive dashboard, users can explore business performance from multiple perspectives.
+### 4. Sales should be evaluated alongside profitability
 
+The dashboard combines **Sales, Cost, Profit and Profit Margin**, allowing users to evaluate financial performance from multiple perspectives.
+
+This is important because high sales volume does not necessarily indicate strong profitability.
+
+### 5. Interactive filtering supports deeper analysis
+
+Users can filter the dashboard by **Year, Region, Customer Segment and Product Category**.
+
+This allows management to move from an overall performance view to more specific questions about particular markets, products or customer groups.
 ---
 
 ## 📌 Recommendations
